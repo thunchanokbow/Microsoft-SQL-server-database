@@ -19,11 +19,13 @@ Restore the database in SSMS
 4. In the Restore Database dialog box, select **the Database to restore.**
 5. In the **Source section**, select Device and then ***click the ellipsis (...) button*** to locate your backup file.
 6. Select **Add and navigate** to where your .bak file is located.
-7. Select **the .bak file** and then select **OK**.
+7. Select **the .bak file** and then select **OK**.  
+![6](/images/06-SSMS.png)
+
 8. In the Destination section, confirm that the Database box is populated with the name of the database to be restored.
 9. To change the name of the database,**enter the new name in the Database box**.
 10. In the **Restore options** section, select the following options:
 - Overwrite the existing database (WITH REPLACE)
 - Close existing connections to destination database
 11. Click **OK to start the restore process.**
-  
+![7](/images/07-SSMS.png)
