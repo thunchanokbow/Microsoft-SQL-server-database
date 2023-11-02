@@ -9,4 +9,4 @@ Download and Installation
 4. Select the features you want to install. The default features **include the database engine, SQL Server Management Studio (SSMS)**, and Analysis Services.
 5. Specify the installation location and folder names.
 6. **Click Install** to start the installation process.
-7. Once the installation is complete,**Restart** your computer before setting up **SSMS**.
+7. Once the installation is complete, **Restart** your computer before setting up **SSMS**.
