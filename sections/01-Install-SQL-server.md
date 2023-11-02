@@ -13,4 +13,4 @@ Download and Installation
 
 ![1](/images/02-SSMS.png)
 
-For more information on installing SQL Server [Here]([ https://www.microsoft.com/en-us/sql-server/sql-server-downloads](https://learn.microsoft.com/en-us/sql/machine-learning/install/sql-machine-learning-services-windows-install-sql-2022?view=sql-server-ver16.)
+For more information on installing SQL Server [Here]( https://learn.microsoft.com/en-us/sql/machine-learning/install/sql-machine-learning-services-windows-install-sql-2022?view=sql-server-ver16.)
