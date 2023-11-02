@@ -10,3 +10,5 @@ Download and Installation
 5. Specify the installation location and folder names.
 6. **Click Install** to start the installation process.
 7. Once the installation is complete, **Restart** your computer before setting up **SSMS**.
+
+![1](/images/02-SSMS.png)
