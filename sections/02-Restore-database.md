@@ -29,3 +29,4 @@ Restore the database in SSMS
 - Close existing connections to destination database
 11. Click **OK to start the restore process.**
 ![7](/images/07-SSMS.png)
+![8](/images/08-SSMS.png)
