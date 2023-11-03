@@ -8,5 +8,5 @@ How to create a login in SQL Server
 4. To create a login that is saved on a SQL Server database, select **SQL Server authentication**.
 - **Enter a password for the new user**. Enter that password again into the **Confirm Password**.
 - **Do not select** the Enforce password **expiration**.
-
-
+5. Select **OK**.
+![9](/images/09-SSMS.png)
