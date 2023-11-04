@@ -30,3 +30,4 @@ Restore the database in SSMS
 11. Click **OK to start the restore process.**
 ![7](/images/07-SSMS.png)
 ![8](/images/08-SSMS.png)
+For more information to restore a database backup using SSMS [Here](https://learn.microsoft.com/en-us/sql/ssms/f1-help/connect-to-server-login-page-database-engine?view=sql-server-ver16)
