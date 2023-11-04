@@ -10,3 +10,4 @@ How to create a login in SQL Server
 - **Do not select** the Enforce password **expiration**.
 5. Select **OK**.
 ![9](/images/09-SSMS.png)
+For more information on creating a login using [Here](https://learn.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-a-login)
