@@ -9,3 +9,4 @@ Connect to the SQL Server Database
 3. select the mode of Authentication to connect to **Windows Authentication**.<br>
 4. select to **connect** to the server.
 ![12](/images/12-SSMS.png)
+For more information on connecting SQL Server Database [Here](https://learn.microsoft.com/en-us/sql/ssms/f1-help/connect-to-server-login-page-database-engine?view=sql-server-ver16)
