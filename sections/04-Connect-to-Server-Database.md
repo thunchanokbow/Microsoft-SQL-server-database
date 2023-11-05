@@ -1,8 +1,11 @@
 Connect to the SQL Server Database 
 ============
+- [Windows Authentication](04-Connect-to-Server-Database.md#Windows-Authentication)
+- [SQL Server Authentication](04-Connect-to-Server-Database.md#SQL-Server-Authentication)
+
 ![11](/images/11-SSMS.png)
 
-
+# Windows Authentication
 ## To connect server database by Windows Authentication, follow these steps:
 1. select the type of server to connect to **Database Engine**.<br>
 2. connecting to Microsoft SQL Server Database Engine. In most cases, you can connect by **entering the computer name** of the database server in the **Server name box**.<br>
@@ -10,6 +13,7 @@ Connect to the SQL Server Database
 4. select to **connect** to the server.
 ![12](/images/12-SSMS.png)
 
+# SQL Server Authentication
 ## To connect server database by SQL Server Authentication, follow these steps:
 Before you begin, you must **first create the new login using** [Here](sections/03-Create-a-login-using.md)
 ![14](/images/14-SSMS.png)
