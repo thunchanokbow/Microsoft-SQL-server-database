@@ -25,6 +25,7 @@ To setup Authentication mode follow these steps:
 
 ![15](/images/15-SSMS.png)
 ![16](/images/16-SSMS.png)
+
 5. In Object Explorer, expand **Security**, expand Logins, right-click **a new login using**, and then select **Properties**.
 6. On the **General** page, you might have to create and confirm a password for the **new login using**.
 7. On the **Status** page, in the Login section, select **Enabled**, and then select **OK**.
