@@ -1,7 +1,7 @@
 Allow Remote Connections to SQL Server
 ============
-- [Enabling SQL Server to accept remote connection](04-Connect-to-Server-Database.md#Enabling-SQL-Server-to-accept-remote-connection)
-- [Adding SQL Server connection port in windows firewall](Adding-SQL-Server-connection-port-in-windows-firewall)
+- [Enabling SQL Server to accept remote connection](05-Allow-remote-connections-to-SQL-Server.md#Enabling-SQL-Server-to-accept-remote-connection)
+- [Adding SQL Server connection port in windows firewall](05-Allow-remote-connections-to-SQL-Server.md#Adding-SQL-Server-connection-port-in-windows-firewall)
 
 # Enabling SQL Server to accept remote connection
 ![0](/images/0-Remote.png)
