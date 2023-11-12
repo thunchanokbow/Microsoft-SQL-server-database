@@ -9,7 +9,7 @@ Microsoft-SQL-server-database
 
 [Restore the database in SSMS](sections/02-Restore-database.md)<br>
 [Create a login using](sections/03-Create-a-login-using.md) SSMS for SQL Server. <br>
-[](sections/01-Install-SQL-server.md) 
-
 - [Create a new login using](sections/03-Create-a-login-using.md#Create-a-new-login-using)<br>
 - [Setup Authentication mode](sections/03-Create-a-login-using.md#Setup-Authentication-mode)<br>
+
+[Allow-remote-connections-to-SQL-Server](sections/05-Allow-remote-connections-to-SQL-Server.md)
