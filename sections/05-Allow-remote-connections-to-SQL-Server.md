@@ -24,6 +24,6 @@ To adding sql server connection port in firewall, follow these steps:
 2. On the right side of **Inbound rules** click **New Rule..**.
 3. In the **New Inbound Rule Wizard** select the second **Port** then **Next**. 
 4. In specific local ports enter **1433** then **Next**.
-5. Last one give a **name** that the same port number then**Finish**..
+5. Last one give a **name** that the same port number then **Finish**.
 ![4](/images/4-Remote.png)
 ![5](/images/5-Remote.png)
