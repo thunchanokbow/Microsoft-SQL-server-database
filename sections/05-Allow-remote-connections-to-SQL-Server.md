@@ -14,7 +14,7 @@ To enabling sql server to accept remote connection, follow these steps:
 6. Go back and click **TCP/IP** in the properties select **IP Addresses** move down to **TCP Post** enter port number **1433** and **OK**
 7. Select **SQL Server Service** and **Restart** again.
 ![1](/images/1-Remote.png)
-SQL Server Configuration Manager is a tool to manage the services associated with SQL Server, to configure the network protocols used by SQL Server, and to manage the network connectivity configuration from SQL Server client computers. It is installed with your SQL Server installation.<br>
+**SQL Server Configuration Manager** is a tool to manage the services associated with SQL Server, to configure the network protocols used by SQL Server, and to manage the network connectivity configuration from SQL Server client computers. **It is installed with your SQL Server installation**.<br>
 
 ![2](/images/2-Remote.png)
 ![3](/images/3-Remote.png)
