@@ -13,4 +13,4 @@ Microsoft-SQL-server-database
 - [Setup Authentication mode](sections/03-Create-a-login-using.md#Setup-Authentication-mode)<br>
 
 [Allow-remote-connections-to-SQL-Server](sections/05-Allow-remote-connections-to-SQL-Server.md)<br>
-[Create a new databse Diagram](sections/05-Allow-remote-connections-to-SQL-Server.md)
+[Create a new databse Diagram](sections/06-Create-a-new-database-diagram.md)
